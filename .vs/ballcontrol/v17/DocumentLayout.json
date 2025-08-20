@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leven\\source\\repos\\sel-optiner\\ballcontrol\\",
+  "WorkspaceRootPath": "D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudio\\ballcontrol\\ballcontrol\\main2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\main2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,17 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main2D.cpp",
-              "DocumentMoniker": "D:\\VisualStudio\\ballcontrol\\ballcontrol\\main2D.cpp",
-              "ToolTip": "D:\\VisualStudio\\ballcontrol\\ballcontrol\\main2D.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\main2D.cpp",
+              "RelativeDocumentMoniker": "main2D.cpp",
+              "ToolTip": "D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\main2D.cpp",
+              "RelativeToolTip": "main2D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-17T08:41:10.008Z",
+              "WhenOpened": "2025-08-20T01:43:27.338Z",
               "EditorCaption": ""
             }
           ]
