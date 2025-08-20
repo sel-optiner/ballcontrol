@@ -3,8 +3,10 @@
 #include <windows.h> // Sleep()
 
 int main() {
-    int pos = 10;       // ボールの位置 $
+    int x = 10;       // ボールの初期x座標 
+	int y = 3;　　　 // ボールの初期y座標　
     const int width = 40; // 画面の横幅 $
+    const int height = 5; // 画面の縦幅 $
 
     while (true) {
         // 画面をクリア
