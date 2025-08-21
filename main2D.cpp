@@ -29,17 +29,24 @@ int main() {
 
         // キー入力チェック
         if (_kbhit()) {
-            char c = _getch();
-            if (c == 'q') break;         // 終了
-            else if (c == 75 && x > 0) x--;          // ←キー
-            else if (c == 77 && x < width - 1) x++;  // →キー
-            else if (c == 72 && y > 0) y++;  // ↑キー
-            else if (c == 80 && y < height - 1) y++;  // ↓キー
+            int c = _getch(); // まず1回読む
+            if (c == 224) {   // 矢印キーや特殊キーは224が返る
+                c = _getch(); // もう1回読むと矢印キーのコード
+                if (c == 75 && x > 0) x--;             // ←
+                else if (c == 77 && x < width - 1) x++; // →
+                else if (c == 72 && y > 0) y--;         // ↑
+                else if (c == 80 && y < height - 1) y++; // ↓
+            }
+            else if (c == 'q') {
+                break; // qで終了
+            }
         }
 
-        Sleep(50); // 50ms待つ
+        Sleep(50); // 50ms待つ（点滅防止）
     }
+
     return 0;
 }
+
 
 
