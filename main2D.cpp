@@ -25,7 +25,7 @@ int main() {
 		}
 
         std::cout << std::endl;  //$
-        std::cout << "← → で移動, q で終了" << std::endl;  //$
+        std::cout << "← → ↑ ↓で移動, q で終了" << std::endl;  //$
 
         // キー入力チェック
         if (_kbhit()) {
