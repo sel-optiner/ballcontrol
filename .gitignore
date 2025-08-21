@@ -1,2 +1,18 @@
-# Visual Studio 一時ファイル
+# Visual Studio 一般
 .vs/
+*.user
+*.suo
+
+# ビルド成果物
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.log
+*.pdb
+*.idb
+
+# その他
+*.vcxproj.user
