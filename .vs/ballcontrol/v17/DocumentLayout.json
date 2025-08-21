@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\main2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E48FE11C-DDC1-4BB7-856E-9C36859B3417}|..\\ballcontrol2D\\ballcontrol2D.vcxproj|D:\\VisualStudio\\ballcontrol\\ballcontrol\\main2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main2D.cpp",
-              "DocumentMoniker": "D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\main2D.cpp",
-              "RelativeDocumentMoniker": "main2D.cpp",
-              "ToolTip": "D:\\VisualStudio\\ballcontrol\\ballcontrolRepo\\main2D.cpp",
-              "RelativeToolTip": "main2D.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\VisualStudio\\ballcontrol\\ballcontrol\\main2D.cpp",
+              "RelativeDocumentMoniker": "..\\ballcontrol\\main2D.cpp",
+              "ToolTip": "D:\\VisualStudio\\ballcontrol\\ballcontrol\\main2D.cpp",
+              "RelativeToolTip": "..\\ballcontrol\\main2D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-20T01:43:27.338Z",
+              "WhenOpened": "2025-08-21T03:08:58.111Z",
               "EditorCaption": ""
             }
           ]
